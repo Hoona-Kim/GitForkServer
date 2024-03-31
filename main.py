@@ -3,4 +3,6 @@
 #
 print("Hello World 1 in team leader server")
 
-print("Hello World 5 in team member C local server")
+print("Update in leader")
+
+print("Update in local C")
